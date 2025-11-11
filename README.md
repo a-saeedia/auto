@@ -1,0 +1,2 @@
+# auto
+crypto news automation
